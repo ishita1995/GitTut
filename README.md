@@ -1,0 +1,2 @@
+# GitTut
+lectures on github
